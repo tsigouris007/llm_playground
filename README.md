@@ -37,7 +37,7 @@ source env/bin/activate # On Windows use env/Scripts/activate
 ```
 
 To deactivate the environment:
-``bash
+```bash
 deactivate
 ```
 
