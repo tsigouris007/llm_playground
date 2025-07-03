@@ -52,3 +52,7 @@ If you need to install extra packages make sure to add it to the environment and
 ```bash
 conda env update --file environment.yml --prune
 ```
+
+# Thanks
+
+Udemy course: https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/
